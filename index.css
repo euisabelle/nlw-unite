@@ -50,7 +50,7 @@ fieldset > div {
   border: var(--border);
   border-radius: 10px;
   padding: 8px 12px;
-  font: 40 14px/150% 'roboto', sans-serif;
+  font: 400 14px/150% 'roboto', sans-serif;
   color: #c4c4cc;
 }
 
